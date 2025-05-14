@@ -28,6 +28,8 @@ This project analyzes music streaming data to uncover trends in listener behavio
 - A/B test simulation on release dates
 - Streamlit-based interactive dashboard
 
+---
+
 ## 🗂️ Data Sources
 
 - [Spotify Global Streaming Data 2024 (Kaggle)](https://www.kaggle.com/datasets/atharvasoundankar/spotify-global-streaming-data-2024)

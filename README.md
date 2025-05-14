@@ -21,7 +21,7 @@ This project analyzes music streaming data to uncover trends in listener behavio
 
 ---
 
-## 📌 Key Features (Planned)
+## 📌 Key Features
 - Listener trends by region and genre
 - Time-of-day or day-of-week streaming patterns
 - Song popularity predictors (regression models)

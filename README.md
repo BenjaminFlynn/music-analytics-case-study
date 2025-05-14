@@ -21,6 +21,13 @@ This project analyzes music streaming data to uncover trends in listener behavio
 
 ---
 
+## 📌 Key Features (Planned)
+- Listener trends by region and genre
+- Time-of-day or day-of-week streaming patterns
+- Song popularity predictors (regression models)
+- A/B test simulation on release dates
+- Streamlit-based interactive dashboard
+
 ## 🗂️ Data Sources
 
 - [Spotify Global Streaming Data 2024 (Kaggle)](https://www.kaggle.com/datasets/atharvasoundankar/spotify-global-streaming-data-2024)
